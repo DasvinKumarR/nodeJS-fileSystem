@@ -1,0 +1,5 @@
+Deployed url - https://nodejs-filesystem-rn8z.onrender.com/
+
+/create-file - to create file
+/read-files -  to read files content
+/current-datetime - to get current date and time
